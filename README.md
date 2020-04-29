@@ -1,2 +1,2 @@
 # gitRepository
-创建git本地仓库
+第一个git仓库
